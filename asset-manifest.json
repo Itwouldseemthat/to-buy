@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/to-buy-list/static/css/main.35549678.css",
+    "main.js": "/to-buy-list/static/js/main.9fe5050b.js",
+    "static/media/hleb.png": "/to-buy-list/static/media/hleb.51a0e9d11bd5d8e29e8c.png",
+    "static/media/tomato.png": "/to-buy-list/static/media/tomato.d706e23ad2cdaabe95aa.png",
+    "static/media/cucumber.png": "/to-buy-list/static/media/cucumber.3ae30b0a05fcbf17cde8.png",
+    "static/media/yabloko.png": "/to-buy-list/static/media/yabloko.bdf7985b4d922a1f41bb.png",
+    "static/media/mayonez.png": "/to-buy-list/static/media/mayonez.d0d86c213f8ee7ade1ad.png",
+    "static/media/banana.png": "/to-buy-list/static/media/banana.6d2acef7aea07a256b66.png",
+    "static/media/baton.png": "/to-buy-list/static/media/baton.7694cbe4df29b80fe194.png",
+    "static/media/smetana.png": "/to-buy-list/static/media/smetana.df67e25d35a2d9ef10ce.png",
+    "static/media/moloko.png": "/to-buy-list/static/media/moloko.5fe053532a0d9c54748c.png",
+    "static/media/masloSlivochnoe.png": "/to-buy-list/static/media/masloSlivochnoe.daaa4700d3988dcd1027.png",
+    "static/media/ketchup.png": "/to-buy-list/static/media/ketchup.d27b271deb3502ff5e0d.png",
+    "index.html": "/to-buy-list/index.html",
+    "main.35549678.css.map": "/to-buy-list/static/css/main.35549678.css.map",
+    "main.9fe5050b.js.map": "/to-buy-list/static/js/main.9fe5050b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35549678.css",
+    "static/js/main.9fe5050b.js"
+  ]
+}
